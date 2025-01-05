@@ -1,0 +1,1 @@
+This repository contains example Python code that demonstrates a common programming error: improper handling of edge cases (empty lists and non-numeric values) in an average calculation function. The `bug.py` file shows the initial faulty code, while `bugSolution.py` provides a corrected version with improved error handling.
